@@ -2,7 +2,7 @@
 - The purpose of this project is to explore the question: Do investors correctly react to events outside of earnings announcements?
 
 # Steps Involved:
-- Please reference:
+- Please reference: https://docs.google.com/document/d/1diOv2hFvtE_QGZuBMnQ_X4hwjzPwJoGdZuz1dDqIHGM/edit?usp=sharing
 
 # Important Files & Folders
 - empirical_analysis.ipynb is the main file used for the bulk of the statistical analysis
