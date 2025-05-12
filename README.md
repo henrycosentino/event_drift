@@ -1,7 +1,7 @@
 # Project Overview
 - The purpose of this project is to explore the question: Do investors correctly react to events outside of earnings announcements?
 
-# Steps Involved:
+# Steps Involved
 - Please reference: https://docs.google.com/document/d/1diOv2hFvtE_QGZuBMnQ_X4hwjzPwJoGdZuz1dDqIHGM/edit?usp=sharing
 
 # Important Files & Folders
@@ -10,6 +10,6 @@
 - final_observational_data.xlsx holds the main observational data collected
 - Data Processing (folder) contains all preprocessing steps to prepare the data, which can be overlooked unless the reader is interested in the details!
 
-# Current Findings:
+# Current Findings
 - No evidence that a stock experiencing an unexpected bad event exhibits any material signs of abnormal subsequent returns. 
 - Finds evidence that a stock experiencing an unexpected good event tends to exhibit a pattern of subsequent negative returns. 
