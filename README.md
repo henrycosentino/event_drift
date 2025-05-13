@@ -2,7 +2,7 @@
 - The purpose of this project is to explore whether market participants react appropriately to events, potentially revealing systematic biases in market response patterns.
 
 # Steps Involved
-- Please reference (specifically, pg 4-14): https://docs.google.com/document/d/1diOv2hFvtE_QGZuBMnQ_X4hwjzPwJoGdZuz1dDqIHGM/edit?usp=sharing
+- Please reference (pg 4-14): https://docs.google.com/document/d/1diOv2hFvtE_QGZuBMnQ_X4hwjzPwJoGdZuz1dDqIHGM/edit?usp=sharing
 
 # Important Files & Folders
 - empirical_analysis.ipynb is the main file used for the bulk of the statistical analysis
