@@ -9,6 +9,7 @@
 - master_data.csv holds the primary data used in empirical_analysis.ipynb and was generated in the Data Processing folder
 - final_observational_data.xlsx holds the main observational data collected
 - Data Processing (folder) contains all preprocessing steps to prepare the data, which can be overlooked unless the reader is interested in the details!
+  - If the reader wishes, they can follow Data Processing in this order: universe_selection.py (1), return_data_download.py (2), and main_data.py (3)
 
 # Current Findings
 - No evidence that a stock experiencing an unexpected bad event exhibits any material signs of abnormal subsequent returns. 
